@@ -1,0 +1,10 @@
+.settings
+.classpath
+.project
+.vscode
+target
+bin
+layout.css
+theme.css
+.DS_STORE
+.sass-cache
